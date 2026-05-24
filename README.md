@@ -9,13 +9,13 @@
 <h1>Hi 👋, I'm Subasree</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=6C63FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;AI+Developer;FastAPI+%7C+Python+%7C+Machine+Learning;Building+Scalable+Applications;Full+Stack+Development+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=6C63FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;AI+Developer;Python+%7C+FastAPI+%7C+ML;Building+Scalable+Applications;Full+Stack+Development+Enthusiast" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=suba-2406&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=suba-2406&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
   
-  <img src="https://img.shields.io/github/followers/suba-2406?style=for-the-badge&color=6C63FF" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/suba-2406?style=for-the-badge&color=6C63FF" />
 </p>
 
 </div>
@@ -24,11 +24,11 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE (Big Data Analytics) Student at SRM Institute of Science and Technology
-- 🚀 Passionate about Backend Development, AI Systems & Full Stack Applications
+- 🎓 Final Year B.Tech CSE (Big Data Analytics) Student at SRMIST
+- 🚀 Passionate about Backend Development & AI Systems
 - 🧠 Skilled in Python, FastAPI, Machine Learning & REST APIs
 - 🏆 4× Hackathon Participant
-- 🔍 Interested in Multi-Agent AI Systems, NLP & Scalable Backend Architectures
+- 🔍 Interested in Multi-Agent AI Systems & Scalable Architectures
 - 💡 Love building intelligent and impactful tech solutions
 
 ---
@@ -43,35 +43,89 @@
 
 ---
 
+# 💻 Currently Working On
+
+- 🔭 Backend APIs with FastAPI
+- 🌱 Exploring AI & Machine Learning
+- ⚡ Improving DSA & Problem Solving
+- 🎯 Building Scalable Web Applications
+
+---
+
 # 🚀 Featured Projects
 
-## 🔹 EduChain
-> Blockchain-powered learning platform connecting students and professors based on skill assessments and learning levels.
+<div align="center">
 
-### Tech Used
+<table>
+<tr>
+<td width="50%">
+
+## 🔹 EduChain
+
+Blockchain-powered learning platform connecting students and professors based on skill assessments and learning levels.
+
+### ⚡ Tech Stack
 - Blockchain
 - Python
 - Full Stack Development
 
----
+🔗 https://github.com/suba-2406
 
-## 🔹 AI Resume Analyzer
-> NLP-based ATS Resume Scoring System that analyzes resumes and provides intelligent feedback.
+</td>
 
-### Tech Used
+<td width="50%">
+
+## 🔹 Student Performance Analysis
+
+Machine learning and data analysis project for analyzing student academic performance and generating insights.
+
+### ⚡ Tech Stack
 - Python
-- NLP
+- Pandas
 - Machine Learning
+- Data Visualization
 
----
+🔗 https://github.com/suba-2406
 
-## 🔹 OCR Document Scanner
-> Smart OCR system for extracting and processing text from documents using AI-based recognition.
+</td>
+</tr>
 
-### Tech Used
+<tr>
+<td width="50%">
+
+## 🔹 AI Web Development Projects
+
+Backend and AI-integrated web applications built using FastAPI and modern web technologies.
+
+### ⚡ Tech Stack
+- FastAPI
 - Python
-- OpenCV
-- OCR
+- APIs
+- React
+
+🔗 https://github.com/suba-2406
+
+</td>
+
+<td width="50%">
+
+## 🔹 Data Analytics Projects
+
+Projects involving data preprocessing, visualization, and predictive analytics using Python libraries.
+
+### ⚡ Tech Stack
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+🔗 https://github.com/suba-2406
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -98,16 +152,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suba-2406&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/suba-2406/suba-2406/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
